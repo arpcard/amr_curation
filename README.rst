@@ -10,6 +10,6 @@ If you are submitting a question or correction about AMR data in a particular da
 Participant List
 --------------------------------------------
 
-* The `Comprehensive Antibiotic Resistance Database <http://card.mcmaster.ca>`_
+* The `Comprehensive Antibiotic Resistance Database <http://card.mcmaster.ca>`_ @arpcard
 
 
