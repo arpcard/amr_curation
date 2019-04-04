@@ -11,5 +11,6 @@ Participant List
 --------------------------------------------
 
 * `Comprehensive Antibiotic Resistance Database <http://card.mcmaster.ca>`_ | @arpcard
+* `NCBI AMRFinder <https://github.com/ncbi/amr>`_ and `Bacterial Antimicrobial Resistance Reference Gene Database <https://www.ncbi.nlm.nih.gov/bioproject/PRJNA313047>`_
 
 
