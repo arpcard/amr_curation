@@ -12,5 +12,6 @@ Participant List
 
 * `Comprehensive Antibiotic Resistance Database <http://card.mcmaster.ca>`_ | @arpcard
 * NCBI's`Beta-Lactamase Alleles <https://www.ncbi.nlm.nih.gov/bioproject/305729>`_ and `Bacterial Antimicrobial Resistance Reference Gene Database <https://www.ncbi.nlm.nih.gov/bioproject/PRJNA313047>`_
+* `ARGDIT, a toolkit to validate and consolidate antimicrobial resistance gene databases <https://github.com/phglab/ARGDIT>`_ | @phglab
 
 
