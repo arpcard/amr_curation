@@ -16,7 +16,7 @@ Participant List
 * `ResFinder <https://cge.cbs.dtu.dk/services/ResFinder/>`_, database and software for identification of acquired antimicrobial resistance genes and/or chromosomal mutations in total or partial sequenced isolates of bacteria
 * `ARGDIT <https://github.com/phglab/ARGDIT>`_, a toolkit to validate and consolidate antimicrobial resistance gene databases | @jimmykhchiu
 * `AMRTime <https://github.com/beiko-lab/AMRtime>`_, a tool to predict the presence of antimicrobial resistance in clinical metagenomes | @fmaguire
-* `MEGARes: an Antimicrobial Database for High-Throughput Sequencing <https://megares.meglab.org>`_
+* `MEGARes <https://megares.meglab.org>`_, an Antimicrobial Database for High-Throughput Sequencing
 * `AmrPlusPlus software <https://github.com/cdeanj/amrplusplus>`_, a high-throughput analysis pipeline to identify and characterize resistance genes from metagenomic sequence data | @cdeanj
 * `AMR++ Shiny <https://github.com/lakinsm/amrplusplus-shiny>`_, statistics interface for metagenomic resistome and microbiome analyses | @lakinsm
 * Agriculture and Agri-Food Canada's branch of `AMR++ Shiny <https://github.com/ropolomx/amrplusplus-shiny>`_, statistics interface for metagenomic resistome and microbiome analyses | @ropolomx
