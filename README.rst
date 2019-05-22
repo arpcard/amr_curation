@@ -17,6 +17,6 @@ Participant List
 * `ARGDIT <https://github.com/phglab/ARGDIT>`_, a toolkit to validate and consolidate antimicrobial resistance gene databases | @jimmykhchiu
 * `AMRTime <https://github.com/beiko-lab/AMRtime>`_, a tool to predict the presence of antimicrobial resistance in clinical metagenomes | @fmaguire
 * `MEGARes: an Antimicrobial Database for High-Throughput Sequencing <https://megares.meglab.org>`_
- * `AmrPlusPlus software <https://github.com/cdeanj/amrplusplus>`_, a high-throughput analysis pipeline to identify and characterize resistance genes from metagenomic sequence data | @cdeanj
- * `AMR++ Shiny <https://github.com/lakinsm/amrplusplus-shiny>`_, statistics interface for metagenomic resistome and microbiome analyses | @lakinsm
- * Agriculture and Agri-Food Canada's branch of `AMR++ Shiny <https://github.com/ropolomx/amrplusplus-shiny>`_, statistics interface for metagenomic resistome and microbiome analyses | @ropolomx
+* `AmrPlusPlus software <https://github.com/cdeanj/amrplusplus>`_, a high-throughput analysis pipeline to identify and characterize resistance genes from metagenomic sequence data | @cdeanj
+* `AMR++ Shiny <https://github.com/lakinsm/amrplusplus-shiny>`_, statistics interface for metagenomic resistome and microbiome analyses | @lakinsm
+* Agriculture and Agri-Food Canada's branch of `AMR++ Shiny <https://github.com/ropolomx/amrplusplus-shiny>`_, statistics interface for metagenomic resistome and microbiome analyses | @ropolomx
