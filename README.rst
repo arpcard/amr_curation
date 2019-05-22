@@ -19,4 +19,4 @@ Participant List
 * `MEGARes <https://megares.meglab.org>`_, an Antimicrobial Database for High-Throughput Sequencing
 * `AmrPlusPlus software <https://github.com/cdeanj/amrplusplus>`_, a high-throughput analysis pipeline to identify and characterize resistance genes from metagenomic sequence data | @cdeanj
 * `AMR++ Shiny <https://github.com/lakinsm/amrplusplus-shiny>`_, statistics interface for metagenomic resistome and microbiome analyses | @lakinsm
-* Agriculture and Agri-Food Canada's branch of `AMR++ Shiny <https://github.com/ropolomx/amrplusplus-shiny>`_, statistics interface for metagenomic resistome and microbiome analyses | @ropolomx
+* Agriculture and Agri-Food Canada's `branch of AMR++ Shiny <https://github.com/ropolomx/amrplusplus-shiny>`_, statistics interface for metagenomic resistome and microbiome analyses | @ropolomx
