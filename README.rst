@@ -11,7 +11,7 @@ Resources
 --------------------------------------------
 
 * `Wikipedia's list of Antimicrobial Resistance databases <https://en.wikipedia.org/wiki/List_of_biological_databases#Antimicrobial_Resistance_databases>`_
-* `Google Spreadsheet of AMR Databases and Software <https://docs.google.com/spreadsheets/d/1psHogF0rZIIq9AXbFfjQNYVXoOVHEYPOi9CYLvtO04U/edit?usp=sharing>`_
+* `Google Spreadsheet of AMR Databases and Software <https://docs.google.com/spreadsheets/d/1psHogF0rZIIq9AXbFfjQNYVXoOVHEYPOi9CYLvtO04U/edit?usp=sharing>`_ (help us keep this up-to-date!)
 
 Participant List
 --------------------------------------------
