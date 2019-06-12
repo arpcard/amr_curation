@@ -7,6 +7,13 @@ A number of databases and software tools exist for DNA sequence-based investigat
 
 If you are `submitting a question or correction <https://github.com/arpcard/amr_curation/issues>`_ about AMR data in a particular database, please indicate the database in your submission. If your question or issue is about software, please use the software's own repository or email address to report the problem.
 
+Resources
+--------------------------------------------
+
+* `Wikipedia's list of Antimicrobial Resistance databases<https://en.wikipedia.org/wiki/List_of_biological_databases#Antimicrobial_Resistance_databases>`_
+*
+*
+
 Participant List
 --------------------------------------------
 
