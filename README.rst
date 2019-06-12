@@ -10,7 +10,7 @@ If you are `submitting a question or correction <https://github.com/arpcard/amr_
 Resources
 --------------------------------------------
 
-* `Wikipedia's list of Antimicrobial Resistance databases<https://en.wikipedia.org/wiki/List_of_biological_databases#Antimicrobial_Resistance_databases>`_
+* `Wikipedia's list of Antimicrobial Resistance databases <https://en.wikipedia.org/wiki/List_of_biological_databases#Antimicrobial_Resistance_databases>`_
 *
 *
 
