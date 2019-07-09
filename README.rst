@@ -7,17 +7,17 @@ A number of databases and software tools exist for DNA sequence-based investigat
 
 If you are `submitting a question or correction <https://github.com/arpcard/amr_curation/issues>`_ about AMR data in a particular database, please indicate the database in your submission. If your question or issue is about software, please use the software's own repository or email address to report the problem.
 
-We also maintain the `amr_curation-l <https://mailman.mcmaster.ca/mailman/listinfo/amr_curation-l>`_ email mailing list for discussion of AMR curation issues if you prefer to this over GitHub. Lastly, we work to maintain some online resources:
+We also maintain the `amr_curation-l <https://mailman.mcmaster.ca/mailman/listinfo/amr_curation-l>`_ email mailing list for discussion of AMR curation issues if you prefer to this over GitHub. Lastly, we maintain some online resources, please help us keep these up to date:
 
 * `Wikipedia's list of Antimicrobial Resistance databases <https://en.wikipedia.org/wiki/List_of_biological_databases#Antimicrobial_resistance_databases>`_
-* `Google Spreadsheet of AMR Databases and Software <https://docs.google.com/spreadsheets/d/1psHogF0rZIIq9AXbFfjQNYVXoOVHEYPOi9CYLvtO04U/edit?usp=sharing>`_, *help us keep this up to date!*
+* `Google Spreadsheet of AMR Databases and Software <https://docs.google.com/spreadsheets/d/1psHogF0rZIIq9AXbFfjQNYVXoOVHEYPOi9CYLvtO04U/edit?usp=sharing>`_
 
 .. image:: images/volunteers.jpg
 
 ::
 
   Anna-Lisa Nguyen & William Huynh
-  amr_curation Project Leads at `CARD <https://card.mcmaster.ca>`_
+  amr_curation Project Leads at CARD
 
 Participant List
 --------------------------------------------
