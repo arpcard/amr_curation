@@ -9,6 +9,13 @@ If you are `submitting a question or correction <https://github.com/arpcard/amr_
 
 We also maintain the `amr_curation_l <https://mailman.mcmaster.ca/mailman/listinfo/amr_curation-l>`_ email mailing list for discussion of AMR curation issues if you prefer to this over GitHub.
 
+.. image:: images/Huynh.jpg
+  :width: 400
+  :alt: William Huynh
+  
+Anna-Lisa Nguyen & William Huynh
+amr_curation Project Leads @ CARD
+
 Resources
 --------------------------------------------
 
