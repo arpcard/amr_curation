@@ -7,7 +7,7 @@ A number of databases and software tools exist for DNA sequence-based investigat
 
 If you are `submitting a question or correction <https://github.com/arpcard/amr_curation/issues>`_ about AMR data in a particular database, please indicate the database in your submission. If your question or issue is about software, please use the software's own repository or email address to report the problem.
 
-We also maintain the `amr_curation_l <https://mailman.mcmaster.ca/mailman/listinfo/amr_curation-l>`_ mailing list for discussion of AMR curation issues if you prefer to this over GitHub.
+We also maintain the `amr_curation_l <https://mailman.mcmaster.ca/mailman/listinfo/amr_curation-l>`_ email mailing list for discussion of AMR curation issues if you prefer to this over GitHub.
 
 Resources
 --------------------------------------------
