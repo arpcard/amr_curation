@@ -12,6 +12,7 @@ We also maintain the `amr_curation-l <https://mailman.mcmaster.ca/mailman/listin
 .. image:: images/volunteers.jpg
 
 Anna-Lisa Nguyen & William Huynh
+
 amr_curation Project Leads @ CARD
 
 Resources
