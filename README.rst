@@ -3,23 +3,20 @@ AMR Curation
 
 **Actively monitored by the CARD Curation Team.**
 
-A number of databases and software tools exist for DNA sequence-based investigation of antimicrobial resistance (see `Boolchandani, D'Souza, & Dantas. 2019. Sequencing-based methods and resources to study antimicrobial resistance. Nat Rev Genet <https://www.nature.com/articles/s41576-019-0108-4>`_). We encourage researchers, software developers, and AMR data curators to use this repository to submit, discuss, and resolve AMR curation issues. Anyone with a GitHub account can submit an issue. AMR software developers or database curators are welcome to join the repository as `Contributors <https://github.com/arpcard/amr_curation/graphs/contributors>`_ to share files, data, & code as well as add documentation (send request to card@mcmaster.ca or `submit a GitHub issue <https://github.com/arpcard/amr_curation/issues>`_).
+A number of databases and software tools exist for DNA sequence-based investigation of antimicrobial resistance (see `Boolchandani, D'Souza, & Dantas. 2019. Sequencing-based methods and resources to study antimicrobial resistance. Nat Rev Genet <https://www.nature.com/articles/s41576-019-0108-4>`_). We encourage researchers, software developers, and AMR data curators to use this repository to submit, discuss, and resolve AMR curation issues. Anyone with a GitHub account can `submit an issue <https://github.com/arpcard/amr_curation/issues>`_. AMR software developers or database curators are welcome to join the repository as `Contributors <https://github.com/arpcard/amr_curation/graphs/contributors>`_ to share files, data, & code as well as add documentation (send request to card@mcmaster.ca or `submit a GitHub issue <https://github.com/arpcard/amr_curation/issues>`_).
 
 If you are `submitting a question or correction <https://github.com/arpcard/amr_curation/issues>`_ about AMR data in a particular database, please indicate the database in your submission. If your question or issue is about software, please use the software's own repository or email address to report the problem.
 
-We also maintain the `amr_curation-l <https://mailman.mcmaster.ca/mailman/listinfo/amr_curation-l>`_ email mailing list for discussion of AMR curation issues if you prefer to this over GitHub.
-
-.. image:: images/volunteers.jpg
-
-Anna-Lisa Nguyen & William Huynh
-
-amr_curation Project Leads @ CARD
-
-Resources
---------------------------------------------
+We also maintain the `amr_curation-l <https://mailman.mcmaster.ca/mailman/listinfo/amr_curation-l>`_ email mailing list for discussion of AMR curation issues if you prefer to this over GitHub. Lastly, we work to maintain some online resources:
 
 * `Wikipedia's list of Antimicrobial Resistance databases <https://en.wikipedia.org/wiki/List_of_biological_databases#Antimicrobial_resistance_databases>`_
 * `Google Spreadsheet of AMR Databases and Software <https://docs.google.com/spreadsheets/d/1psHogF0rZIIq9AXbFfjQNYVXoOVHEYPOi9CYLvtO04U/edit?usp=sharing>`_, *help us keep this up to date!*
+
+.. image:: images/volunteers.jpg
+
+::
+Anna-Lisa Nguyen & William Huynh
+amr_curation Project Leads @ CARD
 
 Participant List
 --------------------------------------------
