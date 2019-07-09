@@ -32,3 +32,5 @@ Participant List
 * `AmrPlusPlus software <https://github.com/cdeanj/amrplusplus>`_, a high-throughput analysis pipeline to identify and characterize resistance genes from metagenomic sequence data | @cdeanj
 * `AMR++ Shiny <https://github.com/lakinsm/amrplusplus-shiny>`_, statistics interface for metagenomic resistome and microbiome analyses | @lakinsm
 * Agriculture and Agri-Food Canada | @ropolomx
+* `Groot <https://github.com/will-rowe/groot>`_ & `BabyGroot <https://github.com/will-rowe/baby-groot>`_ resistome profilers for Graphing Resistance Out Of meTagenomes | @will-rowe 
+
