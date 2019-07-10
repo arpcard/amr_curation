@@ -34,3 +34,4 @@ Participant List
 * Agriculture and Agri-Food Canada | @ropolomx
 * `Groot <https://github.com/will-rowe/groot>`_ & `BabyGroot <https://github.com/will-rowe/baby-groot>`_ resistome profilers for Graphing Resistance Out Of meTagenomes | @will-rowe 
 * `uCAREChemSuiteCLI <https://github.com/sauravbsaha/uCAREChemSuiteCLI>`_ predicts resistome profiles for chemical structures | @sauravbsaha
+* `Beta-Lactamase DataBase (BLDB) <http://www.bldb.eu/>`_ database for biochemical, structural, and sequencing information on beta-lactamases
