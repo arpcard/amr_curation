@@ -33,4 +33,4 @@ Participant List
 * `AMR++ Shiny <https://github.com/lakinsm/amrplusplus-shiny>`_, statistics interface for metagenomic resistome and microbiome analyses | @lakinsm
 * Agriculture and Agri-Food Canada | @ropolomx
 * `Groot <https://github.com/will-rowe/groot>`_ & `BabyGroot <https://github.com/will-rowe/baby-groot>`_ resistome profilers for Graphing Resistance Out Of meTagenomes | @will-rowe 
-
+* `uCAREChemSuiteCLI <https://github.com/sauravbsaha/uCAREChemSuiteCLI>`_ predicts resistome profiles for chemical structures | @sauravbsaha
