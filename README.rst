@@ -35,4 +35,6 @@ Participant List
 * `Groot <https://github.com/will-rowe/groot>`_ & `BabyGroot <https://github.com/will-rowe/baby-groot>`_ resistome profilers for Graphing Resistance Out Of meTagenomes | @will-rowe 
 * `uCAREChemSuiteCLI <https://github.com/sauravbsaha/uCAREChemSuiteCLI>`_ predicts resistome profiles for chemical structures | @sauravbsaha
 * `Beta-Lactamase DataBase (BLDB) <http://www.bldb.eu/>`_ database for biochemical, structural, and sequencing information on beta-lactamases | @iorga
-
+* `CBMAR <http://proteininformatics.org/mkumar/lactamasedb/>`_ facilitates comprehensive annotation of beta-lactamases and their molecular and biochemical characterizations
+* `INTEGRALL <http://integrall.bio.ua.pt/>`_ web-tool to provide information on integron DNA sequences and genetic arrangements
+* `PATRIC <https://patricbrc.org/>`_ provides integrated data and analysis tools for bacterial infectious disease research and inquiry
