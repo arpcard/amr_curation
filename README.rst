@@ -38,3 +38,4 @@ Participant List
 * `CBMAR <http://proteininformatics.org/mkumar/lactamasedb/>`_ facilitates comprehensive annotation of beta-lactamases and their molecular and biochemical characterizations
 * `INTEGRALL <http://integrall.bio.ua.pt/>`_ web-tool to provide information on integron DNA sequences and genetic arrangements
 * `PATRIC <https://patricbrc.org/>`_ provides integrated data and analysis tools for bacterial infectious disease research and inquiry
+* `BacMet <http://bacmet.biomedicine.gu.se>`_ Antibacterial biocide and metal resistance genes database
