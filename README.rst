@@ -33,6 +33,7 @@ Participant List
 * `AMR++ Shiny <https://github.com/lakinsm/amrplusplus-shiny>`_, statistics interface for metagenomic resistome and microbiome analyses | @lakinsm
 * Agriculture and Agri-Food Canada | @ropolomx
 * `Groot <https://github.com/will-rowe/groot>`_ & `BabyGroot <https://github.com/will-rowe/baby-groot>`_ resistome profilers for Graphing Resistance Out Of meTagenomes | @will-rowe 
+* `uCARE <http://e-bioinformatics.net/ucare/>`_, a Comprehensive Antibiotic resistance Repository of Escherichia coli | @sauravbsaha
 * `uCAREChemSuiteCLI <https://github.com/sauravbsaha/uCAREChemSuiteCLI>`_ predicts resistome profiles for chemical structures | @sauravbsaha
 * `Beta-Lactamase DataBase (BLDB) <http://www.bldb.eu/>`_ database for biochemical, structural, and sequencing information on beta-lactamases | @iorga
 * `CBMAR <http://proteininformatics.org/mkumar/lactamasedb/>`_ facilitates comprehensive annotation of beta-lactamases and their molecular and biochemical characterizations
