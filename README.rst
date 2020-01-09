@@ -26,7 +26,7 @@ Participant List
 * NCBI `Beta-Lactamase Alleles <https://www.ncbi.nlm.nih.gov/bioproject/305729>`_ and `Bacterial Antimicrobial Resistance Reference Gene Database <https://www.ncbi.nlm.nih.gov/bioproject/PRJNA313047>`_
 * Public Health Agency of Canada (PHAC)'s `IRIDA AMR Detection Pipeline <https://github.com/phac-nml/irida-plugin-amr-detection>`_ | @apetkau
 * `ResFinder & PointFinder <https://cge.cbs.dtu.dk/services/ResFinder/>`_, database and software for identification of acquired antimicrobial resistance genes and/or chromosomal mutations in total or partial sequenced isolates of bacteria
-* 'Tetracycline and MLS Nomenclature Database <https://faculty.washington.edu/marilynr/>`_, maintained by dr. Marilyn Roberts | marilynr@uw.edu
+* `Tetracycline and MLS Nomenclature Database <https://faculty.washington.edu/marilynr/>`_, maintained by dr. Marilyn Roberts | marilynr@uw.edu
 * `ARGDIT <https://github.com/phglab/ARGDIT>`_, a toolkit to validate and consolidate antimicrobial resistance gene databases | @jimmykhchiu
 * `AMRTime <https://github.com/beiko-lab/AMRtime>`_, a tool to predict the presence of antimicrobial resistance in clinical metagenomes | @fmaguire
 * `MEGARes <https://megares.meglab.org>`_, an Antimicrobial Database for High-Throughput Sequencing
