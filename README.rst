@@ -21,7 +21,7 @@ We also maintain the `amr_curation-l <https://mailman.mcmaster.ca/mailman/listin
 
 Participant List
 --------------------------------------------
-
+ 
 * `Comprehensive Antibiotic Resistance Database <http://card.mcmaster.ca>`_ | @arpcard
 * NCBI `Beta-Lactamase Alleles <https://www.ncbi.nlm.nih.gov/bioproject/305729>`_ and `Bacterial Antimicrobial Resistance Reference Gene Database <https://www.ncbi.nlm.nih.gov/bioproject/PRJNA313047>`_
 * Public Health Agency of Canada (PHAC)'s `IRIDA AMR Detection Pipeline <https://github.com/phac-nml/irida-plugin-amr-detection>`_ | @apetkau
