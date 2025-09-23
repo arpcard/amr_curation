@@ -3,7 +3,7 @@
 # You can adjust the behavior by modifying this file.
 # For more information, see:
 # https://github.com/actions/stale
-name: Mark stale issues and pull requests
+name: 'Close stale issues'
 
 on:
   schedule:
@@ -11,17 +11,22 @@ on:
 
 jobs:
   stale:
-
+    name: Stale
     runs-on: ubuntu-latest
     permissions:
       issues: write
       pull-requests: write
 
     steps:
-    - uses: actions/stale@v5
+    - uses: actions/stale@v8
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        stale-issue-message: 'Stale issue message'
+        stale-issue-message: "This issue is being automatically closed due to lack of activity for 30 days. While the CARD team does it's best to keep up, sometimes we are unable to do so. Please re-open this issue if you still need assistance."
         stale-pr-message: 'Stale pull request message'
-        stale-issue-label: 'no-issue-activity'
-        stale-pr-label: 'no-pr-activity'
+        stale-issue-label: 'stale'
+        stale-pr-label: 'stale'
+        exempt-pr-labels: 'stale-exempt'
+        remove-stale-when-updated: 'True'
+        operations-per-run: 100
+        days-before-stale: 30
+        days-before-close: 7
