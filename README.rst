@@ -9,7 +9,3 @@ We also maintain the `amr_curation-l <https://mailman.mcmaster.ca/mailman/listin
 
 Lastly, 1-on-1 conversations with the CARD curators can occur via email to card@mcmaster.ca and with NCBI can occur via email to pd-help@ncbi.nlm.nih.gov.
 
-We maintain some online resources as well, please help us keep these up to date:
-
-* `Wikipedia's list of Antimicrobial Resistance databases <https://en.wikipedia.org/wiki/List_of_biological_databases#Antimicrobial_resistance_databases>`_
-* `Google Spreadsheet of AMR Databases and Software <https://docs.google.com/spreadsheets/d/1psHogF0rZIIq9AXbFfjQNYVXoOVHEYPOi9CYLvtO04U/edit?usp=sharing>`_
